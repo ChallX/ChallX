@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=challx&label=Kunjungan&color=000000&style=plastic" alt="challx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=challx" alt="challx" /></a> </p>
+
 
 - 🔭 I’m currently studying in **Wikrama Vocational High School**
 
@@ -28,5 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=challx&show_icons=true&theme=dark&title_color=ffffff&text_color=8f8f8f&locale=en&layout=compact" alt="challx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=challx&show_icons=true&theme=dark&title_color=ffffff&text_color=8f8f8f&locale=en" alt="challx" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=challx" alt="challx" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=challx&theme=dark" alt="challx" /></p>
