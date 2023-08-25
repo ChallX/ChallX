@@ -3,11 +3,15 @@
 <h3 align="center">I'm a student of Wikrama Vocational High School, right now i have an interest in becoming a front end developer, i wanna become a front end developer because i like to design things</h3>
 <img align="right" width="300" src="https://38.media.tumblr.com/1e7ab70f69c243a88539fc1161bb6b55/tumblr_njz6zrsrBv1shpedgo2_540.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=challx&label=Yang%20Liat&color=000000&style=flat" alt="challx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=challx&label=Kunjungan&color=000000&style=plastic" alt="challx" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=challx" alt="challx" /></a> </p>
+
+- 🔭 I’m currently studying in **Wikrama Vocational High School**
 
 - 🌱 I’m currently learning **HTML, CSS, PHP, Python, C++**
 
-- 💬 Ask me about **My Hobby, Games, And Other Things**
+- 💬 Ask me about **My Hobby, Games, And Other Things About My Life**
 
 - 📫 How to reach me **louismarchal237@gmail.com, or at my Instagram @louchall**
 
@@ -19,10 +23,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=challx&show_icons=true&theme=dark&title_color=000000&locale=en&layout=compact" alt="challx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=challx&show_icons=true&theme=dark&title_color=ffffff&text_color=8f8f8f&locale=en&layout=compact" alt="challx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=challx&show_icons=true&theme=dark&locale=en" alt="challx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=challx&show_icons=true&theme=dark&title_color=ffffff&text_color=8f8f8f&locale=en" alt="challx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=challx&theme=dark" alt="challx" /></p>
