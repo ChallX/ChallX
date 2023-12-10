@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **louismarchal237@gmail.com, or at my Instagram @louchall**
 
-- ⚡ Fun fact **I Am Bored Of School**
+- ⚡ Fun fact **There Is No Fun Fact In This Page**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
