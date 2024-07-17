@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/1b/de/85/1bde855b1bd40f35b92ae6fc2d2173fa.gif)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Louis Marchall Joheart Cardoso</h1>
 <h3 align="center">I'm a student of Wikrama Vocational High School, right now i have an interest in becoming a front end developer, i wanna become a front end developer because i like to design things</h3>
 <img align="right" width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
