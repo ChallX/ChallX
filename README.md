@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis Marchall Joheart Cardoso</h1>
-<h3 align="center">I'm a student of Wikrama Vocational High School, I'm a beginner Back-End Developer</h3>
+<h3 align="center">I'm a beginner Back-End Developer</h3>
 <img align="right" width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=challx&label=Kunjungan&color=000000&style=plastic" alt="challx" /> </p>
