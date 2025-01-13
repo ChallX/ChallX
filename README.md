@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying in **Wikrama Vocational High School**
 
-- 🌱 I’m currently mastering **Laravel** and Learning **Express.js**
+- 🌱 I’m currently mastering **Laravel** and Learning **GO**
 
 - 💬 Ask me about **My Hobby, Games, And Other Things About My Life**
 
