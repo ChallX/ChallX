@@ -1,10 +1,6 @@
 <h3 align="center">Hello 👋, my name is Louis Marchall Jo Heart Cardoso. I am a Back-End Developer with expertise in PHP programming, particularly using the Laravel framework. I am currently pursuing my education at SMK Wikrama Bogor, a school located in Bogor, Indonesia. At the moment, I am also learning the Go programming language to further expand my skills.</h3>
 
-###
 
-<img src="https://raw.githubusercontent.com/ChallX/ChallX/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChallX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
